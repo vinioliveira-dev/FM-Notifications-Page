@@ -1,6 +1,3 @@
-# FM-Notifications-Page
- A "Notifications" featured page from frontendmentor.io
-
 # Frontend Mentor - Notifications page
 
 ![Design preview for the Notifications page coding challenge](./design/desktop-preview.jpg)
